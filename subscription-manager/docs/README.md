@@ -1,3 +1,5 @@
+# Subscription Manager
+
 # Installation
 
 To install this application please visit [Google Playstore](https://www.justinclicks.com)
