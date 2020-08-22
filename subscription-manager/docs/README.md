@@ -2,13 +2,13 @@
 
 # Installation
 
-To install this application please visit [Google Playstore](https://www.justinclicks.com)
+To install this application please visit [Google Playstore](https://play.google.com/store/apps/details?id=com.justinclicks.subscriptionsmanager)
 Now click on Install. Now your app will start Download. 
 Wait while the app is downloaded and beign installed.
 Once App is installed, you will see Open button as well as you will get option in apps to open. Now open app to get started.
 [Note App is currently available only for Android]
 
-[![Google Play Store](assets/google-play.png)](https://google.vom)
+[![Google Play Store](assets/google-play.png)](https://play.google.com/store/apps/details?id=com.justinclicks.subscriptionsmanager)
 
 
 
